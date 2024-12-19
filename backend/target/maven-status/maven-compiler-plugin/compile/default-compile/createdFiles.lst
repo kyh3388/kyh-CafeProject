@@ -1,0 +1,10 @@
+com\demo\users\UserService.class
+com\demo\users\UserEntity.class
+com\demo\BackendApplication.class
+com\demo\config\WebConfig.class
+com\demo\users\UserController.class
+com\demo\boards\BoardService.class
+com\demo\users\UserRepository.class
+com\demo\boards\BoardRepository.class
+com\demo\boards\BoardController.class
+com\demo\boards\BoardEntity.class
